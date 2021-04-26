@@ -1,0 +1,52 @@
+@extends('layouts.app')
+
+@section('content')
+
+<section class="bg-white shadow">
+  <div class="container mx-auto">
+    <div class="flex flex-col md:flex-row justify-center items-center">
+      <a href="/"><img src="{{ asset('img/logo_fpo.png') }}" alt="logo_fpo" class="w-64"></a>
+      <div class="text-2xl mb-2 md:mb-0 text-blue-900">
+        LA PLATFORME MOOC - FPO
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="container mx-auto mt-10 p-8 shadow border-2 border-gray-400 rounded">
+  <div>
+    <div class="flex justify-center">
+      <i class="fas fa-user-cog fa-2x"></i>
+      <h2 class="font-bold text-gray-800 text-2xl ml-4">ESPACE ADMIN</h2>
+    </div>
+    <div class="flex justify-center">
+      <form action="{{ route('admin.login') }}" method="POST" class="w-full md:w-1/4 mt-10">
+        @csrf
+        <div class="flex flex-col mb-4">
+          <label class="mb-2 font-bold text-lg">Adresse E-mail</label>
+          <input type="text" name="admin_email" class="text-sm bg-gray-400 text-gray-900 px-3 py-3 focus:outline-none focus:ring-2 focus:ring-green-600  @error('admin_email') border-2 border-red-500 @enderror ">
+          @error('admin_email')
+          <div class="text-red-500">{{ $message }}</div>
+          @enderror
+        </div>
+        <div class="flex flex-col mb-4">
+          <label class="mb-2 font-bold text-lg">Mot de passe</label>
+          <input type="password" name="admin_password" class="text-sm bg-gray-400 text-gray-900 px-3 py-3 focus:outline-none focus:ring-2 focus:ring-green-600 @error('admin_password') border-2 border-red-500 @enderror">
+          @error('admin_password')
+          <div class="text-red-500">{{ $message }}</div>
+          @enderror
+        </div>
+        <div class="mt-6">
+          <button type="submit" class="w-full bg-green-600 hover:bg-green-800 py-2 px-4 text-lg text-white">CONNEXION</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
+
+<div class="flex justify-center mb-4 mt-4 ">
+  <p>Designed & Developed with <i class="fas fa-heart fa-sm text-red-700"></i> By <a href="https://www.linkedin.com/in/mourad-el-jayi-706821186/" target="_blank" class="text-blue-700">Mourad EL Jayi</a> | 2021</p>
+</div>
+
+
+@endsection
