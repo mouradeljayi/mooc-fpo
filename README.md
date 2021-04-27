@@ -22,7 +22,10 @@ Une fois que l'étudiant a réussi à se connecter, il sera redirigé vers son e
 
 ![](Github_Images/coursetudiant.png)
 
-L'etudiant peut consulter ses cours/TD/TP et envoyer des reponses des devoirs, anisi que avoir des notifications si un devoir a été ajouté.
+* L'étudiant peut consulter ses cours/TD/TP 
+* Envoyer des reponses des devoirs
+* participer au forum des disussion (Ajouter ou répondre à les discussion )
+* avoir des notifications si un devoir a été ajouté.
 
 ![](Github_Images/cours.png)
 
