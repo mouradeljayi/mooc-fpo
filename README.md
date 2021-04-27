@@ -10,5 +10,8 @@ Cette plateforme a été créé Afin de permettre à les étudiants de la FPO, d
 
 ![](Github_Images/authpage.png)
 
-Les Etudiants et le professeurs peuvent ce connecter à leur espace d'aprés un formulaire d'authentification.
+Les Etudiants et les professeurs peuvent se connecter à leur espace d'aprés un formulaire d'authentification.
 
+![](Github_Images/adminauth.png)
+
+L'administrateur de la platforme a également son espace qui peut s'y connecter en utilisant un autre formulaire d'authentification.
