@@ -1,5 +1,6 @@
 # MOOC FPO
 Une plateforme pédagogique d'enseignement à distance de la Faculté Polydisciplinaire de Ouarzazate.
+(:grey_exclamation: : le lien sera bientôt publié )
 
 ## Description
 Cette plateforme a été créé Afin de permettre à les étudiants de la FPO, de suivre en ligne des activités pédagogiques (cours, TD, TP …..) et d'interagir entre eux ou/et avec leurs enseignants.
