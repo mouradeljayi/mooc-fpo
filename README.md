@@ -79,7 +79,7 @@ Tailwind CSS est un framework CSS conçu pour les utilitaires pour créer rapide
 
 #### [ALPINE JS](https://github.com/alpinejs/alpine/blob/master/README.fr.md)
 
-![](https://res.cloudinary.com/astrava/image/upload/f_auto/v1589834066/alpinetoolbox/placeholder_jhu1j1.png)
+<img src="https://res.cloudinary.com/astrava/image/upload/f_auto/v1589834066/alpinetoolbox/placeholder_jhu1j1.png"  width="400" height="277">
 Alpine js est un cadre minimal et robuste pour la composition du comportement Javascript dans votre balisage. C'est vrai, dans votre balisage! Il vous permet d'écrire la plupart de votre JS en ligne dans votre HTML, ce qui facilite l'écriture du code déclaratif (par opposition au code procédural).
 
 ### REACTIVITE
