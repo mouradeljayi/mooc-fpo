@@ -57,9 +57,9 @@ Une fois que l'administrateur a réussi à se connecter, il sera redirigé vers 
 ![](Github_Images/dashboard.png)
 
 * L'admin peut consulter les étudiants, les professeurs, les modules et les filières  
-* Ajouter / Modifier / Supprimer les étudiants, les professeurs, les modules et les filières
+* Ajouter / Modifier / Supprimer ou rechercher les étudiants, les professeurs, les modules et les filières
 
 ![](Github_Images/etudiants.png)
 ![](Github_Images/profs.png)
-![](Github_Images/filiere.png)
+![](Github_Images/filieres.png)
 ![](Github_Images/modules.png)
