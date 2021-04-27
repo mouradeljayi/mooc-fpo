@@ -46,7 +46,7 @@ Une fois que le professeur a réussi à se connecter, il sera redirigé vers son
 * Ajouter / modifier / supprimer des cours/TD/TP
 * participer au forum des disussion (Ajouter ou répondre à les discussions ) et modifier ou supprimer ses propres discussions. 
 * Modifier les informations personnelles de son profile
-* avoir des notifications si une réponse d'un étudiant a été ajoutée.
+* avoir des notifications si une réponse d'un étudiant pour un devoir a été ajoutée.
 
 ![](Github_Images/ajoutchapitre.png)
 
