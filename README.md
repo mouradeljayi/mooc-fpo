@@ -63,3 +63,14 @@ Une fois que l'administrateur a réussi à se connecter, il sera redirigé vers 
 ![](Github_Images/profs.png)
 ![](Github_Images/filieres.png)
 ![](Github_Images/modules.png)
+
+### TECHNOLOGIES UTILISEES
+
+#### [LARAVEL](https://laravel.com)
+Laravel est un framework web open-source écrit en PHP respectant le principe modèle-vue-contrôleur et entièrement développé en programmation orientée objet. Laravel est distribué sous licence MIT, avec ses sources hébergées sur GitHub.
+#### [TAILWIND CSS](https://tailwindcss.com)
+Tailwind CSS est un framework CSS conçu pour les utilitaires pour créer rapidement des interfaces utilisateur personnalisées. J'aime y penser comme un moyen sympa d'écrire un style en ligne et d'obtenir une interface impressionnante sans écrire une seule ligne de votre propre CSS.
+#### [ALPINE JS](https://github.com/alpinejs/alpine/blob/master/README.fr.md)
+Alpine js est un cadre minimal et robuste pour la composition du comportement Javascript dans votre balisage. C'est vrai, dans votre balisage! Il vous permet d'écrire la plupart de votre JS en ligne dans votre HTML, ce qui facilite l'écriture du code déclaratif (par opposition au code procédural).
+
+
