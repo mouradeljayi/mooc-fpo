@@ -67,10 +67,26 @@ Une fois que l'administrateur a réussi à se connecter, il sera redirigé vers 
 ### TECHNOLOGIES UTILISEES
 
 #### [LARAVEL](https://laravel.com)
+![](https://cms-assets.tutsplus.com/uploads/users/769/posts/25334/preview_image/get-started-with-laravel-6-400x277.png)
+
 Laravel est un framework web open-source écrit en PHP respectant le principe modèle-vue-contrôleur et entièrement développé en programmation orientée objet. Laravel est distribué sous licence MIT, avec ses sources hébergées sur GitHub.
+
 #### [TAILWIND CSS](https://tailwindcss.com)
+
+![](https://www.troispointzero.fr/content/uploads/2020/03/tailwind-pre.png)
+
 Tailwind CSS est un framework CSS conçu pour les utilitaires pour créer rapidement des interfaces utilisateur personnalisées. J'aime y penser comme un moyen sympa d'écrire un style en ligne et d'obtenir une interface impressionnante sans écrire une seule ligne de votre propre CSS.
+
 #### [ALPINE JS](https://github.com/alpinejs/alpine/blob/master/README.fr.md)
+
+![](https://res.cloudinary.com/astrava/image/upload/f_auto/v1589834066/alpinetoolbox/placeholder_jhu1j1.png)
 Alpine js est un cadre minimal et robuste pour la composition du comportement Javascript dans votre balisage. C'est vrai, dans votre balisage! Il vous permet d'écrire la plupart de votre JS en ligne dans votre HTML, ce qui facilite l'écriture du code déclaratif (par opposition au code procédural).
+
+### REACTIVITE
+
+L'application MOOC FPO offre également une expérience de lecture et de navigation optimales pour l’utilisateur quelle que soit sa gamme d’appareil (téléphones mobiles, tablettes, liseuses, moniteurs d’ordinateur de bureau)
+grâce au fonctionnalités du framework Tailwind CSS.
+
+
 
 
