@@ -22,6 +22,11 @@ Une fois que l'étudiant a réussi à se connecter, il sera redirigé vers son e
 
 ![](Github_Images/coursetudiant.png)
 
+L'etudiant peut consulter ses cours/TD/TP et envoyer des reponses des devoirs.
+
+![](Github_Images/cours.png)
+
+
 ### ESPACE PROFESSEUR
 
 Une fois que le professeur a réussi à se connecter, il sera redirigé vers son espace qui contient tous ses modules dont il est responsable.
