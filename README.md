@@ -24,7 +24,7 @@ Une fois que l'étudiant a réussi à se connecter, il sera redirigé vers son e
 
 * L'étudiant peut consulter ses cours/TD/TP 
 * Envoyer des reponses des devoirs
-* participer au forum des disussion (Ajouter ou répondre à les discussions ) et modifier ou supprimer ses propres discussions. 
+* participer au forum des disussions (Ajouter ou répondre à les discussions ) et modifier ou supprimer ses propres discussions. 
 * Modifier les informations personnelles de son profile
 * avoir des notifications si un devoir a été ajouté.
 
