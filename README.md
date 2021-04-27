@@ -6,7 +6,7 @@ Cette plateforme a été créé Afin de permettre à les étudiants de la FPO, d
 
 ![](Github_Images/homepage.png)
 
-### Authentification
+### AUTHENTIFICATION
 
 ![](Github_Images/authpage.png)
 
@@ -15,3 +15,7 @@ Les Etudiants et les professeurs peuvent se connecter à leur espace d'aprés un
 ![](Github_Images/adminauth.png)
 
 L'administrateur de la platforme a également son espace qui peut s'y connecter en utilisant un autre formulaire d'authentification.
+
+### ESPACE ETUDIANT
+
+![](Github_Images/coursetudiant.png)
