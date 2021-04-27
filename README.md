@@ -48,7 +48,7 @@ Une fois que le professeur a réussi à se connecter, il sera redirigé vers son
 * Modifier les informations personnelles de son profile
 * avoir des notifications si une réponse d'un étudiant a été ajoutée.
 
-![](Github_Images/ajouchapitre.png)
+![](Github_Images/ajoutchapitre.png)
 
 ### ESPACE ADMIN
 
