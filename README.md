@@ -27,3 +27,9 @@ Une fois que l'étudiant a réussi à se connecter, il sera redirigé vers son e
 Une fois que le professeur a réussi à se connecter, il sera redirigé vers son espace qui contient tous ses modules dont il est responsable.
 
 ![](Github_Images/modulesprof.png)
+
+### ESPACE ADMIN
+
+Une fois que l'administrateur a réussi à se connecter, il sera redirigé vers son espace dont il peut gérer les étudiants, les professeurs, les modules et les filières de la plateforme.
+
+![](Github_Images/dashboard.png)
