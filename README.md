@@ -87,6 +87,12 @@ Alpine js est un cadre minimal et robuste pour la composition du comportement Ja
 L'application MOOC FPO offre également une expérience de lecture et de navigation optimales pour l’utilisateur quelle que soit sa gamme d’appareil (téléphones mobiles, tablettes, liseuses, moniteurs d’ordinateur de bureau)
 grâce au fonctionnalités du framework Tailwind CSS.
 
+![](Github_Images/mobilehome.png)
+![](Github_Images/mobileauth.png)
+![](Github_Images/mobilecours.png)
+![](Github_Images/mobileforum.png)
+![](Github_Images/mobileprofile.png)
+![](Github_Images/mobileadminmodules.png)
 
 
 
