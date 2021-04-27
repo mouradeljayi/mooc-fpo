@@ -18,4 +18,12 @@ L'administrateur de la platforme a également son espace qui peut s'y connecter 
 
 ### ESPACE ETUDIANT
 
+Une fois que l'étudiant a réussi à se connecter, il sera redirigé vers son espace qui contient tous les modules de sa filière.
+
 ![](Github_Images/coursetudiant.png)
+
+### ESPACE PROFESSEUR
+
+Une fois que le professeur a réussi à se connecter, il sera redirigé vers son espace qui contient tous ses modules dont il est responsable.
+
+![](Github_Images/modulesprof.png)
