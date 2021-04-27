@@ -55,3 +55,11 @@ Une fois que le professeur a réussi à se connecter, il sera redirigé vers son
 Une fois que l'administrateur a réussi à se connecter, il sera redirigé vers son espace dont il peut gérer les étudiants, les professeurs, les modules et les filières de la plateforme.
 
 ![](Github_Images/dashboard.png)
+
+* L'admin peut consulter les étudiants, les professeurs, les modules et les filières  
+* Modifier / Supprimer les étudiants, les professeurs, les modules et les filières
+
+![](Github_Images/etudiant.png)
+![](Github_Images/profs.png)
+![](Github_Images/filiere.png)
+![](Github_Images/modules.png)
