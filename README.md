@@ -91,7 +91,7 @@ grâce au fonctionnalités du framework Tailwind CSS.
 ![](Github_Images/mobileauth.png)
 ![](Github_Images/mobilecours.png)
 ![](Github_Images/mobileforum.png)
-![](Github_Images/mobileprofile.png)
+![](Github_Images/mobile%20profile.png)
 ![](Github_Images/mobileadminmodules.png)
 
 
