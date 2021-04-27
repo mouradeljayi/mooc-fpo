@@ -30,6 +30,7 @@ Une fois que l'étudiant a réussi à se connecter, il sera redirigé vers son e
 
 ![](Github_Images/cours.png)
 ![](Github_Images/forum.png)
+![](Github_Images/ajoutdiscu.png)
 ![](Github_Images/discurepondre.png)
 ![](Github_Images/profile.png)
 ![](Github_Images/notification.png)
@@ -40,6 +41,14 @@ Une fois que l'étudiant a réussi à se connecter, il sera redirigé vers son e
 Une fois que le professeur a réussi à se connecter, il sera redirigé vers son espace qui contient tous ses modules dont il est responsable.
 
 ![](Github_Images/modulesprof.png)
+
+* Le professeur peut consulter ses cours/TD/TP 
+* Ajouter / modifier / supprimer des cours/TD/TP
+* participer au forum des disussion (Ajouter ou répondre à les discussions ) et modifier ou supprimer ses propres discussions. 
+* Modifier les informations personnelles de son profile
+* avoir des notifications si une réponse d'un étudiant a été ajoutée.
+
+![](Github_Images/ajouchapitre.png)
 
 ### ESPACE ADMIN
 
