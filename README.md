@@ -88,10 +88,15 @@ L'application MOOC FPO offre également une expérience de lecture et de navigat
 grâce au fonctionnalités du framework Tailwind CSS.
 
 ![](Github_Images/mobilehome.png)
+<br>
 ![](Github_Images/mobileauth.png)
+<br>
 ![](Github_Images/mobilecours.png)
+<br>
 ![](Github_Images/mobileforum.png)
+<br>
 ![](Github_Images/mobile%20profile.png)
+<br>
 ![](Github_Images/mobileadminmodules.png)
 
 
